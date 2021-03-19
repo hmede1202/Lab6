@@ -37,11 +37,11 @@ nav#sidebar-container ul {
   padding: 0;
   }
   
-nav#sidebar-container ul li {
+nav#sidebar ul li {
   right: 0%;
   }
 
-nav#sidebar-container ul li a {  
+nav#sidebar ul li a {  
   display: block;
   background-color: red;
   color: #fff;
@@ -52,6 +52,6 @@ nav#sidebar-container ul li a {
   padding: 15x 0px;
   }
 
-nav#sidebar-container ul li a:hover {  
+nav#sidebar ul li a:hover {  
   background-color: #000;
   }
