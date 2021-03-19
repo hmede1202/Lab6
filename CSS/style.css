@@ -38,7 +38,7 @@ nav#sidebar-container {
   background-color: #000;
   position: fixed;
   }
-  
+    
 nav#sidebar-container ul {
   list-style-type: none;
   padding: 0;
@@ -46,13 +46,13 @@ nav#sidebar-container ul {
   
 nav#sidebar-container ul li {
   right: 0%;
+  padding: 15x 0px;
   }
 
 nav#sidebar-container ul li a {  
   display: block;
   background-color: red;
   color: #fff;
-  padding: 15x 0px;
   text-decoration: none;
   text-align: center;
   width: 20%; 
