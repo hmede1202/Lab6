@@ -34,24 +34,24 @@ nav#main-navbar ul li a:hover {
   position: relative;
   }
 
-nav#sidebar {
+nav#sidebar-container {
   background-color: #000;
   position: fix;
   }
  
-nav#sidebar ul {
+nav#sidebar-container ul {
   list-style-type: none;
   padding: 0;
   right: 0%;
   }
   
-nav#sidebar ul li {
+nav#sidebar-container ul li {
   padding: 15x 0px;
   width: 20%; 
   height: 100%;
   }
 
-nav#sidebar ul li a {  
+nav#sidebar-container ul li a {  
   display: block;
   background-color: red;
   color: #fff;
@@ -60,6 +60,6 @@ nav#sidebar ul li a {
   position: fix;
   }
   
-nav#sidebar ul li a:hover {  
+nav#sidebar-container ul li a:hover {  
   background-color: #000;
   }
