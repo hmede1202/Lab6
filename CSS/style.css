@@ -34,11 +34,11 @@ nav#main-navbar  ul li a:hover {
   position: relative;
   }
   
-nav#sidebar {
+nav#sidebar-container {
   background-color: #000;
   }
     
-nav#sidebar-container ul {
+nav#sidebar ul {
   list-style-type: none;
   padding: 0;
   }
