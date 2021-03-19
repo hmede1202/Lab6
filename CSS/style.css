@@ -11,23 +11,24 @@ nav#main-navbar ul {
   
 nav#main-navbar ul li {
   float: left;
+  padding: 10px 20px;
   }
 
 nav#main-navbar  ul li a {  
   display: block;
   color: #fff;
-  padding: 10px 20px;
+  float: left;
   text-decoration: none;
   position: relative;
   width: 100%;
+  left: 50%;
+  right: 50%;
   }
 
 nav#main-navbar ul li a:hover {  
   display: block;
   text-decoration: underline overline;
   position: relative;
-  left: 50%;
-  right: 50%;
   background-color: #000;
   }
  
