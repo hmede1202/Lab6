@@ -1,5 +1,6 @@
 nav#main-navbar {
   background-color: #000;
+  position: relative;
   }
 
 nav#main-navbar ul {
