@@ -34,11 +34,12 @@ nav#main-navbar ul li a:hover {
 nav#sidebar-container ul {
   list-style-type: none;
   padding: 0;
-    position: fixed;
+
   }
   
 nav#sidebar ul li {
   right: 0%;
+  position: fixed;
   }
 
 nav#sidebar ul li a {  
@@ -50,7 +51,6 @@ nav#sidebar ul li a {
   height: 100%
   width: 20%;
   padding: 15x 0px;
-
   }
 
 nav#sidebar ul li a:hover {  
