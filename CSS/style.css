@@ -33,11 +33,6 @@ nav#main-navbar ul li a:hover {
   float: left;
   position: relative;
   }
-
-nav#sidebar-container {
-  background-color: #000;
-  position: fix;
-  }
  
 nav#sidebar-container ul {
   list-style-type: none;
