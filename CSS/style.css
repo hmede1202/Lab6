@@ -37,13 +37,10 @@ nav#main-navbar ul li a:hover {
 nav#sidebar ul {
   list-style-type: none;
   padding: 0;
-  right: 0%;
   }
   
 nav#sidebar ul li {
   padding: 15x 0px;
-  width: 20%; 
-  height: 100%;
   }
 
 nav#sidebar ul li a {  
