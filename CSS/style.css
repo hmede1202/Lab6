@@ -1,8 +1,8 @@
-nav#navbar-container {
+nav#navbar-container	 {
   background-color: blue;
   }
 
-nav#navbar-container ul {
+nav#main-navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
