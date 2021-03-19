@@ -1,6 +1,6 @@
 nav#navbar-container	 {
   background-color: blue;
-  position: relative;
+
   }
 
 nav#main-navbar ul {
@@ -8,7 +8,6 @@ nav#main-navbar ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  float: left;
 
    }
   
@@ -34,7 +33,8 @@ nav#main-navbar ul li a:hover {
   text-decoration: underline overline;
   left: 50%;
   right: 50%;
-
+  float: left;
+  position: relative;
   }
   
 nav#sidebar-container ul {
