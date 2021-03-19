@@ -12,6 +12,7 @@ nav#main-navbar ul {
 nav#main-navbar ul li {
   float: left;
   padding: 10px 20px;
+  width: 100%;
   }
 
 nav#main-navbar  ul li a {  
@@ -20,7 +21,7 @@ nav#main-navbar  ul li a {
   float: left;
   text-decoration: none;
   position: relative;
-  width: 100%;
+
   left: 50%;
   right: 50%;
   }
