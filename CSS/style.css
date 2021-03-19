@@ -14,7 +14,7 @@ nav#main-navbar ul li {
   float: left;
   }
 
-nav#main-navbar ul li a {  
+nav#navbar-container ul li a {  
   display: block;
   background-color: blue;
   color: #fff;
@@ -27,7 +27,7 @@ nav#main-navbar ul li a {
   width: 100%;
   }
 
-nav#main-navbar ul li a:hover {  
+nav#navbar-container ul li a:hover {  
   display: block;
   text-decoration: underline overline;
   float: left;
