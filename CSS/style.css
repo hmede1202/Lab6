@@ -11,11 +11,11 @@ nav#main-navbar ul {
   
 nav#main-navbar ul li {
   float: left;
+  padding: 10px 20px;
   }
 
 nav#main-navbar ul li a {  
   display: block;
-  padding: 10px 20px;
   background-color: blue;
   color: #fff;
   text-decoration: none;
