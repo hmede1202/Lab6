@@ -27,13 +27,18 @@ nav#main-navbar  ul li a {
   width: 100%;
   }
 
-nav#main-navbar  ul li a:hover {  
+nav#main-navbar ul li a:hover {  
   display: block;
   text-decoration: underline overline;
   float: left;
   position: relative;
   }
-    
+
+nav#sidebar {
+  background-color: #000;
+  position: fix;
+  }
+ 
 nav#sidebar ul {
   list-style-type: none;
   padding: 0;
@@ -43,8 +48,7 @@ nav#sidebar ul li {
   padding: 15x 0px;
   right: 0%;
   width: 20%; 
-  height: 100%
-  position: fix;
+  height: 100%;
   }
 
 nav#sidebar ul li a {  
@@ -55,7 +59,4 @@ nav#sidebar ul li a {
   text-align: center;
   }
   
-nav#sidebar ul li a:hover {  
-  background-color: #000;
-  }
 
