@@ -39,16 +39,16 @@ nav#sidebar-container {
   position: fixed;
   }
   
-nav#sidebar ul {
+nav#sidebar-container ul {
   list-style-type: none;
   padding: 0;
   }
   
-nav#sidebar ul li {
+nav#sidebar-container ul li {
   right: 0%;
   }
 
-nav#sidebar ul li a {  
+nav#sidebar-container ul li a {  
   display: block;
   background-color: red;
   color: #fff;
