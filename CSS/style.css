@@ -23,9 +23,6 @@ nav#main-navbar  ul li a {
   float: left;
   text-decoration: none;
   position: relative;
-
-  left: 50%;
-
   }
 
 nav#main-navbar ul li a:hover {  
