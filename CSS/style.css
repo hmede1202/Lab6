@@ -37,6 +37,9 @@ nav#main-navbar  ul li a:hover {
 nav#sidebar-container ul {
   list-style-type: none;
   padding: 0;
+  right: 0%;
+  width: 20%; 
+  height: 100%
   }
   
 nav#sidebar-container ul li {
@@ -50,9 +53,6 @@ nav#sidebar-container ul li a {
   text-decoration: none;
   text-align: center;
   position: fix;
-  right: 0%;
-  width: 20%; 
-  height: 100%
   }
   
 nav#sidebar-container ul li a:hover {  
