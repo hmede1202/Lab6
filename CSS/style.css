@@ -34,7 +34,7 @@ nav#main-navbar ul li a:hover {
   position: relative;
   }
   
-nav#sidebar {
+nav#sidebar-container {
   background-color: #000;
   position: fixed;
   }
