@@ -1,6 +1,5 @@
 nav#navbar-container	 {
   background-color: #000;
-  width: 100%;
   }
 
 nav#main-navbar ul {
@@ -13,7 +12,6 @@ nav#main-navbar ul {
   
 nav#main-navbar ul li {
   float: left;
-
   }
 
 nav#main-navbar ul li a {  
@@ -26,13 +24,12 @@ nav#main-navbar ul li a {
   position: relative;
   left: 50%;
   right: 50%;
+  width: 100%;
   }
 
 nav#main-navbar ul li a:hover {  
   display: block;
-
   text-decoration: underline overline;
-
   float: left;
   position: relative;
   }
