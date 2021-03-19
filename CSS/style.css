@@ -12,6 +12,9 @@ nav#main-navbar ul {
   
 nav#main-navbar ul li {
   float: left;
+  left: 50%;
+  right: 50%;
+  width: 100%;
   }
 
 nav#main-navbar  ul li a {  
@@ -22,9 +25,7 @@ nav#main-navbar  ul li a {
   text-decoration: none;
   float: left;
   position: relative;
-  left: 50%;
-  right: 50%;
-  width: 100%;
+
   }
 
 nav#onpage ul li a:hover {  
