@@ -1,10 +1,10 @@
 nav#navbar-container ul {
-  float: left;
-  position: relative;
   list-style-type: none;
   padding: 0;
   margin: 0;
   overflow: hidden;
+  float: left;
+  position: relative;
   }
   
 nav#main-navbar ul li {
@@ -15,14 +15,14 @@ nav#main-navbar ul li {
   }
 
 nav#main-navbar ul li a {  
-  float: left;
-  position: relative;
   display: block;
   background-color: blue;
   color: #fff;
   text-decoration: none;
   width: 100%;
   padding: 10px 20px;
+  float: left;
+  position: relative;
   }
 
 nav#main-navbar ul li a:hover {  
@@ -32,7 +32,6 @@ nav#main-navbar ul li a:hover {
   }
   
 nav#sidebar-container ul {
-  position: fixed;
   list-style-type: none;
   padding: 0;
   }
@@ -50,6 +49,7 @@ nav#sidebar ul li a {
   height: 100%
   width: 20%;
   padding: 15x 0px;
+  position: fixed;
   }
 
 nav#sidebar ul li a:hover {  
