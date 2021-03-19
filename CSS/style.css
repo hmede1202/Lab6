@@ -26,7 +26,7 @@ nav#main-navbar  ul li a {
   width: 100%;
   }
 
-nav#onpage ul li a:hover {  
+nav#main-navbar ul li a:hover {  
   display: block;
   text-decoration: underline overline;
   float: left;
