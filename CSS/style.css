@@ -34,27 +34,28 @@ nav#main-navbar ul li a:hover {
   position: relative;
   }
   
-nav#sidebar-container ul {
+nav#sidebar {
+  background-color: #000;
+  position: fixed;
+  }
+  
+nav#sidebar ul {
   list-style-type: none;
   padding: 0;
   }
   
 nav#sidebar ul li {
   right: 0%;
-  position: fixed;
   }
 
 nav#sidebar ul li a {  
   display: block;
   background-color: red;
   color: #fff;
+  padding: 15x 0px;
   text-decoration: none;
   text-align: center;
+  width: 20%; 
   height: 100%
-  width: 20%;
-  padding: 15x 0px;
   }
 
-nav#sidebar ul li a:hover {  
-  background-color: #000;
-  }
