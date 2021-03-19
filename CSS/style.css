@@ -16,13 +16,11 @@ nav#main-navbar ul li {
 
 nav#main-navbar ul li a {  
   display: block;
-  background-color: blue;
+  padding: 10px 20px;
   color: #fff;
   text-decoration: none;
-  padding: 10px 20px;
   float: left;
   position: relative;
-
   width: 100%;
   }
 
