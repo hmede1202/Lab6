@@ -1,5 +1,5 @@
 nav#navbar-container	 {
-  background-color: blue;
+  background-color: #000;
   width: 100%;
   }
 
@@ -19,6 +19,7 @@ nav#main-navbar ul li {
 nav#main-navbar ul li a {  
   display: block;
   padding: 10px 20px;
+  background-color: blue;
   color: #fff;
   text-decoration: none;
   float: left;
@@ -29,7 +30,7 @@ nav#main-navbar ul li a {
 
 nav#main-navbar ul li a:hover {  
   display: block;
-  background-color: #000;
+
   text-decoration: underline overline;
 
   float: left;
