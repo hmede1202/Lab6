@@ -8,7 +8,7 @@ nav#main-navbar ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-   }
+  }
   
 nav#main-navbar ul li {
   float: left;
@@ -16,10 +16,10 @@ nav#main-navbar ul li {
 
 nav#main-navbar  ul li a {  
   display: block;
+  background-color: #000;
   color: #fff;
   padding: 10px 20px;
   text-decoration: none;
-  float: left;
   position: relative;
   }
 
@@ -27,7 +27,7 @@ nav#main-navbar ul li a:hover {
   display: block;
   text-decoration: underline overline;
   position: relative;
-  background-color: #000;
+  float: left;
   left: 50%;
   right: 50%;
   width: 100%;
