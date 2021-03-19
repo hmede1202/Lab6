@@ -1,9 +1,9 @@
 nav#navbar-container	 {
-  background-color: blue;
-
+  background-color: #000;
+  position: relative;
   }
 
-nav#main-navbar ul {
+nav#navbar-container ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@ nav#main-navbar ul {
   
 nav#main-navbar ul li {
   float: left;
-  position: relative;
+
   }
 
 nav#main-navbar ul li a {  
@@ -29,7 +29,7 @@ nav#main-navbar ul li a {
 
 nav#main-navbar ul li a:hover {  
   display: block;
-  background-color: #000;
+  background-color: blue;
   text-decoration: underline overline;
   left: 50%;
   right: 50%;
