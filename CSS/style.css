@@ -7,9 +7,7 @@ nav#navbar-container ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  float: left;
-  position: relative;
-  }
+   }
   
 nav#main-navbar ul li {
   float: left;
@@ -33,6 +31,8 @@ nav#main-navbar ul li a:hover {
   display: block;
   background-color: #000;
   text-decoration: underline overline;
+  float: left;
+  position: relative;
   }
   
 nav#sidebar-container ul {
