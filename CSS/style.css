@@ -1,7 +1,6 @@
 nav#main-navbar {
   background-color: blue;
   position: relative;
-
   }
 
 nav#main-navbar ul {
@@ -23,6 +22,8 @@ nav#main-navbar  ul li a {
   text-decoration: none;
   float: left;
   position: relative;
+  left: 50%;
+  right: 50%;
   width: 100%;
   }
 
@@ -30,8 +31,7 @@ nav#main-navbar ul li a:hover {
   display: block;
   text-decoration: underline overline;
   position: relative;
-  left: 50%;
-  right: 50%;
+
   background-color: #000;
   }
  
