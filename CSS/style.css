@@ -23,7 +23,7 @@ nav#main-navbar  ul li a {
   position: relative;
   }
 
-nav#onpage ul li a:hover {  
+nav#navbar-container ul li a:hover {  
   display: block;
   text-decoration: underline overline;
   position: relative;
