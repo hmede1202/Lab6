@@ -1,6 +1,5 @@
 nav#navbar-container	 {
   background-color: #000;
-
   width: 100%;
   }
 
@@ -19,7 +18,6 @@ nav#main-navbar ul li {
 
 nav#main-navbar ul li a {  
   display: block;
-  background-color: blue;
   padding: 10px 20px;
   color: #fff;
   text-decoration: none;
