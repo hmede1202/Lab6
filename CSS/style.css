@@ -7,14 +7,14 @@ nav#navbar-container ul {
   overflow: hidden;
   }
   
-nav#main-navbar ul li {
+nav#navbar-container ul li {
   float: left;
   position: relative;
   left: 50%;
   right: 50%;
   }
 
-nav#main-navbar ul li a {  
+nav#navbar-container ul li a {  
   float: left;
   position: relative;
   display: block;
@@ -25,23 +25,23 @@ nav#main-navbar ul li a {
   padding: 10px 20px;
   }
 
-nav#main-navbar ul li a:hover {  
+nav#navbar-container ul li a:hover {  
   display: block;
   background-color: #000;
   text-decoration: underline overline;
   }
   
-nav#sidebar ul {
+nav#sidebar-container ul {
   position: fixed;
   list-style-type: none;
   padding: 0;
   }
   
-nav#sidebar ul li {
+nav#sidebar-container ul li {
   right: 0%;
   }
 
-nav#sidebar ul li a {  
+nav#sidebar-container ul li a {  
   display: block;
   background-color: red;
   color: #fff;
@@ -52,7 +52,6 @@ nav#sidebar ul li a {
   padding: 15x 0px;
   }
 
-nav#sidebar ul li a:hover {  
+nav#sidebar-container ul li a:hover {  
   background-color: #000;
-
   }
