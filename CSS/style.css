@@ -22,8 +22,7 @@ nav#main-navbar ul li a {
   padding: 10px 20px;
   float: left;
   position: relative;
-  left: 50%;
-  right: 50%;
+
   width: 100%;
   }
 
@@ -31,6 +30,8 @@ nav#main-navbar ul li a:hover {
   display: block;
   background-color: #000;
   text-decoration: underline overline;
+  left: 50%;
+  right: 50%;
   float: left;
   position: relative;
   }
