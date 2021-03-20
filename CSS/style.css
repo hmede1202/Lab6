@@ -23,6 +23,7 @@ nav#main-navbar  ul li a {
   width: 100%;
   left: 50%;
   right: 50%;
+    
   }
 
 #navbar-container ul li a:hover {  
@@ -31,6 +32,7 @@ nav#main-navbar  ul li a {
   position: relative;
   background-color: #000;
   float: left;
+  padding: 10px 20px;
   }
  
 #sidebar-container ul {
