@@ -47,17 +47,16 @@ nav#main-navbar ul li a:hover {
   }
   
 #sidebar ul li {
-  padding: 15x 0px;  
+  text-align: center; 
   }
 
 #sidebar ul li a {  
   display: block;
   text-decoration: none;
-  text-align: center; 
+  padding: 15x 0px;  
   color: #fff;
   }
   
 #sidebar ul li a:hover {  
-
   background-color: #000;
   }
