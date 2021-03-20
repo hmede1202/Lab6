@@ -45,10 +45,10 @@ nav#main-navbar ul li a:hover {
 #sidebar ul {
   list-style-type: none;
   padding: 0;
-  padding: 15x 0px;  
   }
   
-#sidebar ul li {
+#sidebar-container ul li {
+  padding: 15x 0px;  
   }
 
 #sidebar ul li a {  
