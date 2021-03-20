@@ -41,15 +41,14 @@ nav#sidebar ul {
   
 nav#sidebar ul li {
   padding: 15x 0px;  
+  position: fix;
   }
 
 nav#sidebar ul li a {  
-  display: block;
-  background-color: red;
+  display: bloc olor: red;
   color: #fff;
   text-decoration: none;
-  text-align: center;
-  position: fix;
+  text-align: center; 
   right: 0%;
   height: 100%;
   width: 20%;
