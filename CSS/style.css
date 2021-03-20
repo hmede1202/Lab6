@@ -1,5 +1,6 @@
 nav#main-navbar {
   background-color: blue;
+  position: relative;
   }
 
 nav#main-navbar ul {
@@ -11,7 +12,6 @@ nav#main-navbar ul {
   
 nav#main-navbar ul li {
   float: left;
-  position: relative;
   padding: 10px 20px;
   width: 100%;
   right: 50%;
