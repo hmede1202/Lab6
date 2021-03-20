@@ -35,7 +35,7 @@ nav#main-navbar  ul li a {
   padding: 10px 20px;
   }
  
-#sidebar-container ul {
+nav#main-navbar ul {
   list-style-type: none;
   padding: 0;  
   color: red;
