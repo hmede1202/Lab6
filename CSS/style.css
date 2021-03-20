@@ -26,7 +26,7 @@ nav#main-navbar  ul li a {
     
   }
 
-#navbar-container ul li a:hover {  
+nav#main-navbar ul li a:hover {  
   display: block;
   text-decoration: underline overline;
   position: relative;
