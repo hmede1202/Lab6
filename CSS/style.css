@@ -23,7 +23,6 @@ nav#main-navbar  ul li a {
   width: 100%;
   left: 50%;
   right: 50%;
-    
   }
 
 nav#main-navbar ul li a:hover {  
@@ -35,18 +34,18 @@ nav#main-navbar ul li a:hover {
   padding: 10px 20px;
   }
  
-nav#main-navbar ul {
+#sidebar ul {
   list-style-type: none;
   padding: 0;  
   color: red;
   }
   
-nav#main-navbar ul li {
+#sidebar ul li {
   padding: 15x 0px;  
   position: fix;
   }
 
-nav#main-navbar ul li a {  
+#sidebar ul li a {  
   display: block;
   color: #fff;
   text-decoration: none;
@@ -56,6 +55,6 @@ nav#main-navbar ul li a {
   width: 20%;
   }
   
-nav#main-navbar li a:hover {  
+#sidebar li a:hover {  
   background-color: #000;
   }
