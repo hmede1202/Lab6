@@ -54,6 +54,6 @@ nav#main-navbar  ul li a {
   width: 20%;
   }
   
-#sidebar ul li a:hover {  
+#sidebar-container li a:hover {  
   background-color: #000;
   }
