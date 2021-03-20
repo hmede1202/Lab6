@@ -46,15 +46,15 @@ nav#main-navbar ul li a:hover {
 
 #sidebar ul li a {  
   display: block;
-  color: #fff;
   text-decoration: none;
   text-align: center; 
   right: 0%;
   height: 100%;
   width: 20%;
-  color: red;
+  color: red;  
+  background-color: #000;
   }
   
 #sidebar li a:hover {  
-  background-color: #000;
+  color: #fff;
   }
