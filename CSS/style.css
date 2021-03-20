@@ -12,8 +12,6 @@ nav#main-navbar ul {
   
 nav#main-navbar ul li {
   float: left
-  padding: 10px 20px;;
-  
   }
 
 nav#main-navbar  ul li a {  
@@ -25,6 +23,7 @@ nav#main-navbar  ul li a {
   width: 100%;
   left: 50%;
   right: 50%;
+  padding: 10px 20px;
     }
 
 nav#main-navbar ul li a:hover {  
