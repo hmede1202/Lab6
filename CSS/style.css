@@ -24,7 +24,6 @@ nav#main-navbar  ul li a {
   position: relative;
   width: 100%;
   left: 50%;
-  right: 50%;
   }
 
 nav#main-navbar ul li a:hover {  
