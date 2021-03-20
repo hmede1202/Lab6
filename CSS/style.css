@@ -14,7 +14,6 @@ nav#main-navbar ul li {
   padding: 10px 20px;
   width: 100%;
   right: 50%;
-  left: 50%;
   }
 
 nav#main-navbar  ul li a {  
@@ -23,7 +22,7 @@ nav#main-navbar  ul li a {
   float: left;
   text-decoration: none;
   position: relative;
-
+  left: 50%;
   }
 
 nav#main-navbar ul li a:hover {  
