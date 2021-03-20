@@ -1,6 +1,5 @@
 nav#main-navbar {
-  background-color: blue;
-  position: relative;
+  background-color: blue; 
   }
 
 nav#main-navbar ul {
@@ -11,27 +10,27 @@ nav#main-navbar ul {
   }
   
 nav#main-navbar ul li {
-  float: left
+  float: left  
+  padding: 10px 20px;
   }
 
 nav#main-navbar  ul li a {  
   display: block;
+  background-color: #000;
   color: #fff;
   float: left;
   text-decoration: none;
-
+  position: relative;
   width: 100%;
   left: 50%;
   right: 50%;
-  padding: 10px 20px;
     }
 
 nav#main-navbar ul li a:hover {  
   display: block;
   text-decoration: underline overline;
   position: relative;
-  background-color: #000;
-  float: left;
+   float: left;
   }
  
 nav#sidebar ul {
