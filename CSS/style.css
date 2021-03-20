@@ -3,6 +3,7 @@ nav#main-navbar {
   width: 100%;
   left: 50%;
   right: 50%;
+  position: relative;
   }
 
 nav#main-navbar ul {
