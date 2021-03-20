@@ -34,10 +34,16 @@ nav#main-navbar ul li a:hover {
   padding: 10px 20px;
   }
  
+#sidebar-container {
+  color: red;
+  right: 0%;
+  height: 100%;
+  width: 20%;
+  }
+  
 #sidebar-container ul {
   list-style-type: none;
   padding: 0;
-  color: red;
   }
   
 #sidebar-container ul li {
@@ -49,10 +55,6 @@ nav#main-navbar ul li a:hover {
   display: block;
   text-decoration: none;
   text-align: center; 
-  right: 0%;
-  height: 100%;
-  width: 20%;
-  
   background-color: #000;
   }
   
