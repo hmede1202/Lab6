@@ -1,4 +1,6 @@
 nav#main-navbar {
+  display: block;
+  float: left;
   background-color: blue;
   position: relative;
   }
@@ -12,13 +14,12 @@ nav#main-navbar ul {
   
 nav#main-navbar ul li {
   float: left;
-
   width: 100%;
   right: 50%;
   }
 
 nav#main-navbar  ul li a {  
-  display: block;
+
   color: #fff;
   float: left;
   text-decoration: none;
