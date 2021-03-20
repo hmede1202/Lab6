@@ -47,7 +47,7 @@ nav#main-navbar ul li a:hover {
   }
   
 #sidebar ul li {
-  padding: 15x 0px;  
+
   }
 
 #sidebar ul li a {  
@@ -56,6 +56,7 @@ nav#main-navbar ul li a:hover {
   }
   
 #sidebar ul li a:hover {  
+  padding: 15x 0px;  
   display: block;
   text-align: center; 
   background-color: #000;
