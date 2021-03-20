@@ -9,11 +9,11 @@ nav#main-navbar ul {
   overflow: hidden;
   }
   
-nav#main-navbar ul li {
+#onpage ul li {
   float: left
   }
 
-#navbar-container  ul li a {  
+nav#main-navbar  ul li a {  
   display: block;
   color: #fff;  
   padding: 10px 20px;
@@ -33,7 +33,7 @@ nav#main-navbar ul li {
   float: left;
   }
  
-#sidebar ul {
+#sidebar-container ul {
   list-style-type: none;
   padding: 0;  
   color: red;
@@ -44,7 +44,7 @@ nav#main-navbar ul li {
   position: fix;
   }
 
-#sidebar-container ul li a {  
+#sidebar ul li a {  
   display: block;
   color: #fff;
   text-decoration: none;
