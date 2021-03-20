@@ -41,7 +41,7 @@ nav#main-navbar ul li a:hover {
   width: 20%;
   }
   
-#sidebar ul {
+#sidebar-container ul {
   list-style-type: none;
   padding: 0;
   }
@@ -57,6 +57,6 @@ nav#main-navbar ul li a:hover {
   color: #fff;
   }
   
-#sidebar li a:hover {  
+#sidebar ul li a:hover {  
   background-color: #000;
   }
