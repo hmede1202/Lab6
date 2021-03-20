@@ -40,7 +40,7 @@ nav#main-navbar ul li a:hover {
   color: red;
   }
   
-#sidebar ul li {
+#sidebar-container ul li {
   padding: 15x 0px;  
   position: fix;
   }
