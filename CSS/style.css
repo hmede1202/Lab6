@@ -33,7 +33,7 @@ nav#main-navbar  ul li a {
   float: left;
   }
  
-#sidebar ul {
+#sidebar-container ul {
   list-style-type: none;
   padding: 0;  
   color: red;
