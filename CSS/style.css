@@ -13,7 +13,7 @@ nav#main-navbar ul li {
   float: left
   }
 
-nav#main-navbar  ul li a {  
+#navbar-container  ul li a {  
   display: block;
   color: #fff;  
   padding: 10px 20px;
@@ -25,7 +25,7 @@ nav#main-navbar  ul li a {
   right: 50%;
   }
 
-nav#main-navbar ul li a:hover {  
+#onpage ul li a:hover {  
   display: block;
   text-decoration: underline overline;
   position: relative;
@@ -33,18 +33,18 @@ nav#main-navbar ul li a:hover {
   float: left;
   }
  
-nav#sidebar ul {
+#sidebar ul {
   list-style-type: none;
   padding: 0;  
   color: red;
   }
   
-nav#sidebar ul li {
+#sidebar ul li {
   padding: 15x 0px;  
   position: fix;
   }
 
-nav#sidebar-container ul li a {  
+#sidebar-container ul li a {  
   display: block;
   color: #fff;
   text-decoration: none;
@@ -54,6 +54,6 @@ nav#sidebar-container ul li a {
   width: 20%;
   }
   
-nav#onpage ul li a:hover {  
+#sidebar-container ul li a:hover {  
   background-color: #000;
   }
