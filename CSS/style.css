@@ -36,7 +36,8 @@ nav#main-navbar ul li a:hover {
  
 #sidebar-container ul {
   list-style-type: none;
-  padding: 0;  
+  padding: 0;
+  color: red;
   }
   
 #sidebar-container ul li {
@@ -51,7 +52,7 @@ nav#main-navbar ul li a:hover {
   right: 0%;
   height: 100%;
   width: 20%;
-  color: red;  
+  
   background-color: #000;
   }
   
