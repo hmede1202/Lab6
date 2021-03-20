@@ -48,14 +48,14 @@ nav#main-navbar ul li a:hover {
   }
   
 #sidebar ul li {
-  text-align: center; 
+  padding: 15x 0px;  
   }
 
 #sidebar ul li a {  
   display: block;
   text-decoration: none;
   color: #fff;
-  padding: 15x 0px;  
+  text-align: center; 
   }
   
 #sidebar ul li a:hover {  
