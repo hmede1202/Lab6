@@ -34,7 +34,7 @@ nav#main-navbar ul li a:hover {
   padding: 10px 20px;
   }
  
-nav#main-navbar {
+#sidebar {
   color: red;
   right: 0%;
   height: 100%;
