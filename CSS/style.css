@@ -34,7 +34,7 @@ nav#main-navbar ul li a:hover {
   padding: 10px 20px;
   }
  
-#sidebar ul {
+#sidebar-container ul {
   list-style-type: none;
   padding: 0;  
   color: red;
