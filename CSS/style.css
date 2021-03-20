@@ -51,13 +51,13 @@ nav#main-navbar ul li a:hover {
   padding: 15x 0px;  
   }
 
-#sidebar ul li a {  
+#sidebar-container ul li a {  
   display: block;
   text-decoration: none;
   text-align: center; 
   color: #fff;
   }
   
-#sidebar ul li a:hover {  
+#sidebar-container ul li a:hover {  
   background-color: #000;
   }
