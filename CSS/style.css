@@ -57,6 +57,6 @@ nav#main-navbar ul li a:hover {
   color: #fff;
   }
   
-nav#main-navbar ul li a:hover {  
+#sidebar li a:hover {  
   background-color: #000;
   }
