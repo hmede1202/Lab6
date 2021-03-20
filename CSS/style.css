@@ -11,22 +11,21 @@ nav#main-navbar ul {
   }
   
 nav#main-navbar ul li {
-  float: left;
-  left: 50%;
-  right: 50%;
+  float: left
+  padding: 10px 20px;;
+  
   }
 
 nav#main-navbar  ul li a {  
-
+  display: block;
   color: #fff;
   float: left;
   text-decoration: none;
   position: relative;
   width: 100%;
-
-
-  padding: 10px 20px;
-  }
+  left: 50%;
+  right: 50%;
+    }
 
 nav#main-navbar ul li a:hover {  
   display: block;
