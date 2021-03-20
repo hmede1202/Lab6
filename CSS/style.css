@@ -25,7 +25,7 @@ nav#main-navbar  ul li a {
   position: relative;
   }
 
-#onpage ul li a:hover {  
+nav#main-navbar ul li a:hover {  
   display: block;
   text-decoration: underline overline;
   position: relative;
