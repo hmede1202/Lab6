@@ -41,12 +41,12 @@ nav#main-navbar ul {
   color: red;
   }
   
-#sidebar ul li {
+nav#main-navbar ul li {
   padding: 15x 0px;  
   position: fix;
   }
 
-#sidebar ul li a {  
+nav#main-navbar ul li a {  
   display: block;
   color: #fff;
   text-decoration: none;
@@ -56,6 +56,6 @@ nav#main-navbar ul {
   width: 20%;
   }
   
-#sidebar-container li a:hover {  
+nav#main-navbar li a:hover {  
   background-color: #000;
   }
