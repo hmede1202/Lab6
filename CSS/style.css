@@ -34,7 +34,8 @@ nav#main-navbar ul li a:hover {
   padding: 10px 20px;
   }
  
-#sidebar {
+ #sidebar {
+  position: fixed;
   color: red;
   right: 0%;
   height: 100%;
@@ -48,7 +49,6 @@ nav#main-navbar ul li a:hover {
   
 #sidebar-container ul li {
   padding: 15x 0px;  
-  position: fix;
   }
 
 #sidebar ul li a {  
