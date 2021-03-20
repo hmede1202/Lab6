@@ -1,5 +1,8 @@
 nav#main-navbar {
   background-color: blue;
+  width: 100%;
+  left: 50%;
+  right: 50%;
   }
 
 nav#main-navbar ul {
@@ -20,9 +23,6 @@ nav#main-navbar  ul li a {
   float: left;
   text-decoration: none;
   position: relative;
-  width: 100%;
-  left: 50%;
-  right: 50%;
   }
 
 nav#main-navbar ul li a:hover {  
