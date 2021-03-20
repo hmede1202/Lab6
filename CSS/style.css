@@ -34,7 +34,7 @@ nav#main-navbar ul li a:hover {
   float: left;
   }
  
- #sidebar {
+ #sidebar-container {
   position: fixed;
   background-color: red;
   right: 0%;
