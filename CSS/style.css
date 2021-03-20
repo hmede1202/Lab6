@@ -51,12 +51,12 @@ nav#main-navbar ul li a:hover {
   }
 
 #sidebar ul li a {  
-  display: block;
   text-decoration: none;
   text-align: center; 
   color: #fff;
   }
   
 #sidebar ul li a:hover {  
+  display: block;
   background-color: #000;
   }
