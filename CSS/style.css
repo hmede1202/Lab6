@@ -1,4 +1,4 @@
-nav#main-navbar  {
+#main-navbar  {
   background-color: blue;
   overflow: hidden;
    }
@@ -9,7 +9,7 @@ nav#main-navbar  {
   float: left;
 }
 
-nav#main-navbar ul {
+#main-navbar ul {
   float: left;
   list-style-type: none;
   margin: 0;
@@ -18,21 +18,21 @@ nav#main-navbar ul {
   position: relative;
   }
   
-nav#main-navbar ul li {
+#main-navbar ul li {
   float: left;
   right: 50%;
   position: relative;
   display: block;
   }
 
-nav#main-navbar  ul li a {  
+#main-navbar  ul li a {  
   color: #fff; 
   padding: 10px 20px;
   text-decoration: none;
   display: block;
   }
 
-nav#main-navbar ul li a:hover {  
+#main-navbar ul li a:hover {  
   background-color: #000;
   }
   
