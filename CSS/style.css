@@ -38,7 +38,7 @@ nav#main-navbar ul li a:hover {
   
 #onpage {
  text-decoration: underline overline;
-}
+ }
 
  #sidebar-container {
   position: fixed;
@@ -48,7 +48,7 @@ nav#main-navbar ul li a:hover {
   width: 20%;
   }
   
- #sidebar ul {
+#sidebar ul {
   list-style-type: none;
   padding: 0;
   text-align: center;
@@ -61,6 +61,6 @@ nav#main-navbar ul li a:hover {
   padding: 15px 0;
   }
   
- #sidebar ul li a:hover {  
+#sidebar ul li a:hover{
   background-color: #000;
   }
