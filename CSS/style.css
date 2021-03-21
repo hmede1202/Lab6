@@ -1,43 +1,44 @@
 nav#main-navbar  {
   background-color: blue;
- 
-  width: 100%;
-  right: 50%;
-  left: 50%;  
-  }
+  overflow: hidden;
+   }
 
-#navbar-container #onpage {
+#navbar-container  {
   position: relative;
+  width: 100%;
+  float: left;
 }
 
 nav#main-navbar ul {
+  float: left;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  left: 50%; 
+  position: relative;
   }
   
 nav#main-navbar ul li {
   float: left;
+  right: 50%;
+  position: relative;
+  display: block;
   }
 
 nav#main-navbar  ul li a {  
-  display: block;
   color: #fff; 
   padding: 10px 20px;
   text-decoration: none;
-  position: relative;
-  float: left;
   }
 
 nav#main-navbar ul li a:hover {  
-  display: block; 
-  text-decoration: underline overline;
   background-color: #000;
-  position: relative;
-  float: left;
   }
- 
+  
+#onpage {
+ text-decoration: underline overline;
+}
+
  #sidebar-container {
   position: fixed;
   background-color: red;
