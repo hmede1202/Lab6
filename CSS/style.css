@@ -51,6 +51,7 @@ nav#main-navbar ul li a:hover {
  #sidebar-container ul {
   list-style-type: none;
   padding: 0;
+  text-align: center;
   }
   
 
@@ -59,7 +60,6 @@ nav#main-navbar ul li a:hover {
   display: block;
   color: #fff;
   text-decoration: none;
-  text-align: center; 
   padding: 15x 0px;
   }
   
