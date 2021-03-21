@@ -48,7 +48,7 @@ nav#main-navbar ul li a:hover {
   width: 20%;
   }
   
- #sidebar-container ul {
+ #sidebar ul {
   list-style-type: none;
   padding: 0;
   text-align: center;
@@ -63,6 +63,6 @@ nav#main-navbar ul li a:hover {
   padding: 15x 0px;
   }
   
- #sidebar-container ul li a:hover {  
+ #sidebar ul li a:hover {  
   background-color: #000;
   }
