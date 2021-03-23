@@ -40,7 +40,7 @@
  text-decoration: underline overline;
  }
 
- #sidebar-container {
+#sidebar-container {
   position: fixed;
   background-color: red;
   right: 0%;
